@@ -11,3 +11,12 @@ It is an ambitious plan, but I would like to start small, and to start today.
 The writings will be structured more in the form of *Breadth-first Search* instead of *Depth-first Search* to align to the natural learning process. This means that we will visit the same "branches" of the knowledge tree again and again once we gained more knowledge and experience from other branches, but each time deeper.
 
 This is a progressive learning process as the 8-year-old will grow both biologically and intellectually. And the people behind the screen will also grow biologically and hopefully intellectually as well. 
+
+Table of Contents
+
+=================
+
+* [Chapter 0  Fundamental Concepts](./Chapter 0 Fundamental Concepts/)
+   * [0.1 Computing](./Chapter 0 Fundamental Concepts/0.1 Computing.md)
+   * [0.2 Simplification (Abstraction)](./Chapter 0 Fundamental Concepts/0.1 Simplification (Abstraction).md)
+   * [0.3 Lanugage](./Chapter 0 Fundamental Concepts/0.3 Language.md)
