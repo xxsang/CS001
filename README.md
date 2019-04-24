@@ -16,7 +16,7 @@ Table of Contents
 
 =================
 
-* [Chapter 0  Fundamental Concepts](./Chapter 0 Fundamental Concepts/)
-   * [0.1 Computing](./Chapter 0 Fundamental Concepts/0.1 Computing.md)
-   * [0.2 Simplification (Abstraction)](./Chapter 0 Fundamental Concepts/0.1 Simplification (Abstraction).md)
-   * [0.3 Lanugage](./Chapter 0 Fundamental Concepts/0.3 Language.md)
+* [Chapter 0  Fundamental Concepts](Chapter 0 Fundamental Concepts/)
+   * [0.1 Computing](Chapter 0 Fundamental Concepts/0.1 Computing.md)
+   * [0.2 Simplification (Abstraction)](Chapter 0 Fundamental Concepts/0.1 Simplification (Abstraction).md)
+   * [0.3 Lanugage](Chapter 0 Fundamental Concepts/0.3 Language.md)
