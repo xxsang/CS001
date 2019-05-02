@@ -19,5 +19,6 @@ Table of Contents
 * [Chapter 0  Fundamental Concepts](./Chapter%200%20Fundamental%20Concepts/)
    * [0.1 Computing](./Chapter%200%20Fundamental%20Concepts/0.1%20Computing.md)
    * [0.2 Simplification (Abstraction)](./Chapter%200%20Fundamental%20Concepts/0.1%20Simplification%20(Abstraction).md)
-   * [0.3 Lanugage](./Chapter%200%20Fundamental%20Concepts/0.3%20Language.md)
+   * [0.3 Language](./Chapter%200%20Fundamental%20Concepts/0.3%20Language.md)
+   * [0.4 A Minimalist's Computing Machine](./Chapter%200%20Fundamental%20Concepts/0.4%20Computing%20Machine.md)
 
